@@ -1,0 +1,33 @@
+body {
+  background-image: url(http://www.zingerbugimages.com/backgrounds/blue-sky-background.jpg);
+}
+
+.hot {
+  background-image: url(https://themeparkradio.files.wordpress.com/2009/12/hot_weather1.jpg);
+}
+
+.cold {
+  background-image: url(http://www.alphawallpapers.com/wp-content/uploads//2009/02/01-201.jpg);
+}
+
+h1 {
+  font-family: 'Rock Salt', cursive;
+
+}
+
+.main-temp {
+  font-family: 'Rock Salt';
+ 
+}
+
+div {
+  font-family: 'Rock Salt';
+ 
+}
+
+.center {
+  display: inline;
+  border: 1px solid black;
+  padding: 12px 12px 12px 12px;
+  border-radius: 10px;
+}
